@@ -40,6 +40,13 @@ We are excited to have an incredible group of invited speakers from a range of r
 
 We will solicit contributed abstracts for presentation at the workshop. Check back here for details.
 
+## Schedule
+
+| Syntax      | Description |
+| ----------- | ----------- |
+| Header      | Title       |
+| Paragraph   | Text        |
+
 ## Organizers
 
 * Aaron M. Johnson, Carnegie Mellon University
