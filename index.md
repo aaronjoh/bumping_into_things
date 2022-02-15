@@ -1,7 +1,3 @@
-<header>
-The Science of Bumping Into Things
-</header>
-  
 ## Description
 Handling contact is a fundamental challenge in robotics. We want robots to interact with the world to do
 something useful, which often requires physical interaction with the environment. Whether it is a warehouse
