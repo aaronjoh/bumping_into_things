@@ -38,10 +38,18 @@ We will solicit contributed abstracts for presentation at the workshop. Check ba
 
 ## Schedule
 
-| Syntax      | Description |
-| ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
+Subject to change.
+
+|Introduction & Welcome | 8:45-9:00 |
+|Invited Talks 1 & 2  |  9:00-10:00 |
+|Posters and coffee break | 10:00-10:45 |
+|Accepted Talk 1 | 11:15-11:30 |
+|Panel Discussion 1 | 11:30-12:00 |
+|Lunch | 12:00-1:30 |
+|Accepted Talks 2 & 3 | 1:30-2:00 |
+|Invited Talk 4 | 2:00-2:30 |
+|Posters and coffee break | 2:30-3:15  |
+|Panel Discussion 2  | 4:45-5:15 |
 
 ## Organizers
 
