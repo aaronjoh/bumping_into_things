@@ -4,5 +4,9 @@
 @import "{{ site.theme }}";
 
 .inner {
-  width: 800px;
+  width: 800px
+}
+
+ul li {
+  list-style-position: inside
 }
