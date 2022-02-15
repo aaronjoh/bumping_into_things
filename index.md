@@ -1,3 +1,5 @@
+% The Science of Bumping Into Things
+
 ## Description
 Handling contact is a fundamental challenge in robotics. We want robots to interact with the world to do
 something useful, which often requires physical interaction with the environment. Whether it is a warehouse
@@ -31,3 +33,13 @@ We are excited to have an incredible group of invited speakers from a range of r
 * Carolyn Matl, Research Scientist, Toyota Research Institute
 * Francesca Negrello, Postdoc, Istituto Italiano di Tecnologia
 * Alessandro Saccon, Assistant Professor, Eindhoven University of Technology
+
+## Call for Contributions
+
+We will solicit contributed abstracts for presentation at the workshop. Check back here for details.
+
+## Organizers
+
+* Aaron M. Johnson, Carnegie Mellon University
+* Michael Posa, University of Pennsylvania
+* Hannah Stuart, University of California, Berkeley
