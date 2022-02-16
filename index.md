@@ -24,15 +24,15 @@ the robotics field to explore new approaches to tackling this fundamental challe
 ## Invited Speakers
 We are excited to have an incredible group of invited speakers from a range of research backgrounds who are all excited to share their thoughts on this theme:
 
-* Pulkit Agrawal, Assistant Professor, Massachusetts Institute of Technology
-* Maria Bauza, Ph.D. Candidate, Massachusetts Institute of Technology
-* Ken Goldberg, Professor, University of California, Berkeley
-* Yan Gu, Assistant Professor, University of Massachusetts, Lowell
-* Kevin Lynch, Professor, Northwestern University
-* Zachary Manchester, Assistant Professor, Carnegie Mellon University
-* Carolyn Matl, Research Scientist, Toyota Research Institute
-* Francesca Negrello, Postdoc, Istituto Italiano di Tecnologia
-* Alessandro Saccon, Assistant Professor, Eindhoven University of Technology
+* [Pulkit Agrawal](https://people.csail.mit.edu/pulkitag/), Assistant Professor, Massachusetts Institute of Technology
+* [Maria Bauza](https://web.mit.edu/bauza/www/), Ph.D. Candidate, Massachusetts Institute of Technology
+* [Ken Goldberg](https://goldberg.berkeley.edu/), Professor, University of California, Berkeley
+* [Yan Gu](https://www.uml.edu/engineering/mechanical/faculty/gu-yan.aspx), Assistant Professor, University of Massachusetts, Lowell
+* [Kevin Lynch](https://robotics.northwestern.edu/people/profiles/faculty/lynch-kevin.html), Professor, Northwestern University
+* [Zachary Manchester](https://www.ri.cmu.edu/ri-faculty/zachary-manchester/), Assistant Professor, Carnegie Mellon University
+* [Carolyn Matl](https://carolyncmatl.github.io/), Research Scientist, Toyota Research Institute
+* [Francesca Negrello](https://scholar.google.com/citations?user=pRTUzT4AAAAJ&hl=en), Postdoc, Istituto Italiano di Tecnologia
+* [Alessandro Saccon](https://www.tue.nl/en/research/researchers/alessandro-saccon/), Assistant Professor, Eindhoven University of Technology
 
 ## Call for Contributions
 
@@ -43,18 +43,20 @@ We will solicit contributed abstracts for presentation at the workshop. Check ba
 Subject to change.
 
 |Introduction & Welcome | 8:45-9:00 |
-|Invited Talks 1 & 2  |  9:00-10:00 |
-|Posters and coffee break | 10:00-10:45 |
-|Accepted Talk 1 | 11:15-11:30 |
+|Invited Talks 1, 2, & 3  |  9:00-10:00 |
+|Posters and coffee break | 10:00-10:50 |
+|Invited Talk 4 | 10:50-11:10 |
+|Accepted Talk 1 | 11:10-11:30 |
 |Panel Discussion 1 | 11:30-12:00 |
 |Lunch | 12:00-1:30 |
-|Accepted Talks 2 & 3 | 1:30-2:00 |
-|Invited Talk 4 | 2:00-2:30 |
-|Posters and coffee break | 2:30-3:15  |
-|Panel Discussion 2  | 4:45-5:15 |
+|Accepted Talks 2 & 3 | 1:30-2:10 |
+|Invited Talks 5 & 6 | 2:10-2:50 |
+|Posters and coffee break | 2:50-3:30 |
+|Invited Talks 7, 8, & 9 | 3:30-4:30 |
+|Panel Discussion 2  | 4:30-5:00 |
 
 ## Organizers
 
-* Aaron M. Johnson, Carnegie Mellon University
-* Michael Posa, University of Pennsylvania
-* Hannah Stuart, University of California, Berkeley
+* [Aaron M. Johnson](https://www.andrew.cmu.edu/user/amj1/), Carnegie Mellon University
+* [Michael Posa](https://www.grasp.upenn.edu/people/michael-posa/), University of Pennsylvania
+* [Hannah Stuart](https://edg.berkeley.edu/people/hannah-stuart/), University of California, Berkeley
