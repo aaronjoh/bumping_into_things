@@ -1,5 +1,7 @@
 ### Workshop proposed to RSS 2022
 
+![](composite.png)
+
 ## Description
 Handling contact is a fundamental challenge in robotics. We want robots to interact with the world to do
 something useful, which often requires physical interaction with the environment. Whether it is a warehouse
