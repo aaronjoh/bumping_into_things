@@ -54,7 +54,7 @@ Subject to change.
 |Posters and coffee break | 2:50-3:30 |
 |Invited Talks 7, 8, & 9 | 3:30-4:30 |
 |Panel Discussion 2  | 4:30-5:00 |
-
+ 
 ## Organizers
 
 * [Aaron M. Johnson](https://www.andrew.cmu.edu/user/amj1/), Carnegie Mellon University
