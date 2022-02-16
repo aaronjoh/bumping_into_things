@@ -43,7 +43,7 @@ We will solicit contributed abstracts for presentation at the workshop. Check ba
 Subject to change.
 
 |Introduction & Welcome | 8:45-9:00 |
-|Invited Talks 1, 2, & 3  |  9:00-10:00 |
+|Invited Talks 1, 2, & 3 | 9:00-10:00 |
 |Posters and coffee break | 10:00-10:50 |
 |Invited Talk 4 | 10:50-11:10 |
 |Accepted Talk 1 | 11:10-11:30 |
@@ -53,7 +53,7 @@ Subject to change.
 |Invited Talks 5 & 6 | 2:10-2:50 |
 |Posters and coffee break | 2:50-3:30 |
 |Invited Talks 7, 8, & 9 | 3:30-4:30 |
-|Panel Discussion 2  | 4:30-5:00 |
+|Panel Discussion 2 | 4:30-5:00 |
  
 ## Organizers
 
