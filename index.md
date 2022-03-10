@@ -1,4 +1,4 @@
-### Workshop proposed to RSS 2022
+### Workshop at Robotics: Science and Systems 2022
 
 ![](composite.png)
 
@@ -21,7 +21,7 @@ the challenges of real-world contact. This is also an issue that cuts across dif
 as manipulation or locomotion. Thus this workshop is designed to bring together researchers from across
 the robotics field to explore new approaches to tackling this fundamental challenge.
 
-
+[RSS 2022 Conference Webstite](https://roboticsconference.org/)
 
 ## Invited Speakers
 We are excited to have an incredible group of invited speakers from a range of research backgrounds who are all excited to share their thoughts on this theme:
