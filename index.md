@@ -1,4 +1,5 @@
-### Workshop at Robotics: Science and Systems 2022
+### Workshop at [Robotics: Science and Systems 2022](https://roboticsconference.org/)
+### July 1st, 2022
 
 ![](composite.png)
 
@@ -21,7 +22,19 @@ the challenges of real-world contact. This is also an issue that cuts across dif
 as manipulation or locomotion. Thus this workshop is designed to bring together researchers from across
 the robotics field to explore new approaches to tackling this fundamental challenge.
 
-[RSS 2022 Conference Webstite](https://roboticsconference.org/)
+To get the conversation started, here is a list of topics and questions for participants to think about (but other topics within the spirit of the above description will also be considered):
+* Reactive or online planning and control to initiate and leverage contacts.
+* Robustness to expected or unexpected contact events.
+* Is a model-based structure necessary, or can unstructured learning methods succeed? What types of
+problems might require or benefit from structure?
+* Making sense of touch: leveraging spatially rich tactile sensing.
+* The role of design and novel shapes to control interactions.
+* Interacting with soft and deformable surfaces, and leveraging softness for robustness.
+* How does the manner (fast/slow, accidental/intentional/adversarial) or physics (soft/hard, point/surface,
+slippery/sticky) affect which solution(s) might be appropriate?
+
+
+
 
 ## Invited Speakers
 We are excited to have an incredible group of invited speakers from a range of research backgrounds who are all excited to share their thoughts on this theme:
@@ -38,7 +51,14 @@ We are excited to have an incredible group of invited speakers from a range of r
 
 ## Call for Contributions
 
-We will solicit contributed abstracts for presentation at the workshop. Check back here for details.
+We would like to invite contributed abstracts from the community that fit the themes of this workshop. Accepted abstracts will be presented as either posters or spotlight talks. All accepted abstracts will be posted on this page. Submissions should follow the [RSS paper format](https://roboticsconference.org/information/authorinfo/) and should be one to two pages in length (including citations). Submissions should include a brief abstract at the start summarizing the work. 
+
+If you would like to contribute, please email your submission in PDF form to [amj1@cmu.edu](amj1@cmu.edu).
+
+**Submission Deadline** For full consideration for speaking slots: **May 9th, 2022**
+**Late Deadline** For poster-only consideration: **June 6th, 2022**
+
+Decisions will be returned within two weeks of submission. 
 
 ## Schedule
 
