@@ -55,8 +55,8 @@ We would like to invite contributed abstracts from the community that fit the th
 
 If you would like to contribute, please [submit your abstract here](https://cmt3.research.microsoft.com/RSSBumpingIntoThings2022/).
 
-**Submission Deadline** For full consideration for speaking slots: **May 9th, 2022**, with decisions by May 20th, 2022
-**Late Deadline** For poster-only consideration: **June 6th, 2022**, with decisions returned within two weeks of submission.
+**Submission Deadline** For full consideration for speaking slots: **May 9th, 2022**, with decisions by May 20th, 2022.    
+**Late Deadline** For poster-only consideration: **June 6th, 2022**, with decisions returned within two weeks of submission.    
 **Workshop Date** The workshop will be held on: **July 1st, 2022**
 
 ## Schedule
