@@ -61,19 +61,20 @@ If you would like to contribute, please [submit your abstract here](https://cmt3
 
 ## Schedule
 
-Subject to change.
+Subject to change. Location: 451 CSB, Posters: CS Lounge
 
-|Introduction & Welcome | 8:45-9:00 |
-|Invited Talks 1, 2, & 3 | 9:00-10:00 |
-|Posters and coffee break | 10:00-10:50 |
-|Invited Talk 4 | 10:50-11:10 |
-|Accepted Talk 1 | 11:10-11:30 |
-|Panel Discussion 1 | 11:30-12:00 |
-|Lunch | 12:00-1:30 |
-|Accepted Talks 2 & 3 | 1:30-2:10 |
-|Invited Talks 5 & 6 | 2:10-2:50 |
-|Posters and coffee break | 2:50-3:30 |
-|Invited Talks 7, 8, & 9 | 3:30-4:30 |
+|Introduction & Welcome | 9:00-9:10 |
+|Invited Talks 1, 2, & 3 | 9:10-10:10 |
+|Accepted Talk 1 | 10:10-10:30 |
+|Posters and coffee break | 10:30-11:20 |
+|Invited Talk 4 | 11:20-11:40 |
+|Accepted Talk 2 | 11:40-12:00 |
+|Panel Discussion 1 | 12:00-12:30 |
+|Lunch | 12:30-2:00 |
+|Invited Talks 5, 6, & 7 | 2:00-3:00 |
+|Accepted Talk 3 | 3:00-3:20 |
+|Coffee break | 3:20-3:50 |
+|Invited Talks 8 & 9 | 3:50-4:30 |
 |Panel Discussion 2 | 4:30-5:00 |
  
 ## Organizers
