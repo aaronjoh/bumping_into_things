@@ -53,7 +53,7 @@ We are excited to have an incredible group of invited speakers from a range of r
 
 We would like to invite contributed abstracts from the community that fit the themes of this workshop. Accepted abstracts will be presented as either posters or spotlight talks. Submissions may be on recently published work, upcoming papers, position papers, or work in progress. All accepted abstracts will be posted on this page. Submissions should follow the [RSS paper format](https://roboticsconference.org/information/authorinfo/) and should be one to two pages in length (including citations). Submissions should include a brief abstract at the start summarizing the work. 
 
-If you would like to contribute, please [submit your abstract here](https://cmt3.research.microsoft.com/RSSBumpingIntoThings2022/).
+If you would like to contribute, please [submit your abstract here](https://cmt3.research.microsoft.com/RSSBumpingIntoThings2022/). **Submission deadline has past**
 
 **Submission Deadline** For full consideration for speaking slots: **May 9th, 2022**, with decisions by May 20th, 2022.    
 **Late Deadline** For poster-only consideration: **June 6th, 2022**, with decisions returned within two weeks of submission.    
@@ -76,6 +76,29 @@ Subject to change. Location: 451 CSB, Posters: CS Lounge
 |Coffee break | 3:20-3:50 |
 |Invited Talks 8 & 9 | 3:50-4:30 |
 |Panel Discussion 2 | 4:30-5:00 |
+
+## Contributed Papers
+
+The accepted abstracts for this workshop are:  \
+[	Fast Contact-Implicit Model-Predictive Control	](	cimpc_bumping_rss2022.pdf	), by 	Howell, Taylor; Le Cleac'h, Simon	  \
+[	Insight: A Vision-based Haptic Sensor That Provides Rich Force Information about Contacts	](	Insight_RSS_2022_Workshop_Paper.pdf	), by 	Sun, Huanbo	  \
+[	Safe Supervisory Control of Soft Robot Actuators	](	Safe_Supervisor_RSS_Workshop_2022-05-09.pdf	), by 	Sabelhaus, Andrew P; Patterson, Zach; Wertz, Anthony; Majidi, Carmel	  \
+[	Framework and Software for Real-Time Multi-Contact Model Predictive Control	](	Aydinoglu_RSSWS_2022.pdf	), by 	Aydinoglu, Alp; Posa, Michael	  \
+[	Robust Pivoting Manipulation Using Bilevel Contact-Implicit Optimization	](	RSS22_WS_Pivoting.pdf	), by 	Shirai, Yuki; Jha, Devesh K; Raghunathan, Arvind U; Romeres, Diego	  \
+[	Efficient Object Manipulation Planning with Monte Carlo Tree Search	](	zhu22efficient_rssws.pdf	), by 	Zhu, Huaijiang; Righetti, Ludovic	  \
+[	Using Contacts During Robot Manipulation to Map and Reconstruct a Scene	](	Joao_Bimbo_RSSWS_2022.pdf	), by 	Bimbo, Joao; Morgan, Andrew S; Dollar, Aaron M.	  \
+[	Python-based Open Source Package for Optimization of Contact-rich Systems	](	RSS22_pyrobocop-3.pdf	), by 	Romeres, Diego; Raghunathan, Arvind U; Jha, Devesh K	  \
+[	Developing Data-driven Methods for Mixed-integer Nonlinear Programs	](	Lin_RSSWS_2022.pdf	), by 	Lin, Xuan	  \
+[	Dynamic Inference on Graphs using Structured Transition Models	](	Saxena_RSSWS_2022.pdf	), by 	Saxena, Saumya; Kroemer, Oliver	  \
+[	Torque-Limited Manipulation Planning with Contact	](	insat_ptc_extd_abs.pdf	), by 	Natarajan, Ramkumar; Likhachev, Maxim; Choset, Howie	  \
+[	Emergent Mechanism Design via Robot Swarms	](	Taylor_RSSWS_2022.pdf	), by 	Taylor, Annalisa; Berrueta, Thomas A; Murphey, Todd	  \
+[	High-Speed Scooping Manipulation Using Controlled Compliance	](	RSS2022WS_High_Speed_Scooping.pdf	), by 	Mak, Ka Hei; Seo, Jungwon	  \
+[	Hybrid Event Shaping to Stabilize Periodic Hybrid Orbits	](	RSS_Workshop___Hybrid_Event_Shaping.pdf	), by 	Zhu, James; Johnson, Aaron	  \
+[	Solving the "Last Centimeter" Problem with Autonomous Grasping Reflexes	](	SaLoutos_RSSWS_2022.pdf	), by 	SaLoutos, Andrew	  \
+[	Automatic Tool Design for Robotic Caging Using Flexible Wires	](	Ketchum_RSSWS_2022.pdf	), by 	Ketchum, Jake B; Meyer, Joel; Murphey, Todd	  \
+[	Designing Whisker Sensors for Noisy Environments	](	Kent_RSSWS_2022.pdf	), by 	Kent, Teresa  A	  
+
+
  
 ## Organizers
 
