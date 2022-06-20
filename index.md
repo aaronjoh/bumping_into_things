@@ -63,18 +63,23 @@ If you would like to contribute, please [submit your abstract here](https://cmt3
 
 Subject to change. Location: 451 CSB, Posters: CS Lounge
 
-|Introduction & Welcome | 9:00-9:10 |
-|Invited Talks 1, 2, & 3 | 9:10-10:10 |
-|Accepted Talk 1 | 10:10-10:30 |
-|Posters and coffee break | 10:30-11:20 |
-|Invited Talk 4 | 11:20-11:40 |
-|Accepted Talk 2 | 11:40-12:00 |
-|Panel Discussion 1 | 12:00-12:30 |
-|Lunch | 12:30-2:00 |
-|Invited Talks 5, 6, & 7 | 2:00-3:00 |
-|Accepted Talk 3 | 3:00-3:20 |
-|Coffee break | 3:20-3:50 |
-|Invited Talks 8 & 9 | 3:50-4:30 |
+|Introduction & Welcome | 9:00-9:15 |
+|[Maria Bauza](https://web.mit.edu/bauza/www/) | 9:15-9:35 |
+|[Ken Goldberg](https://goldberg.berkeley.edu/) | 9:35-9:55 |
+|[Carolyn Matl](https://carolyncmatl.github.io/) | 9:55-10:15 |
+|Huanbo Sun | 10:15-10:30 |
+|Posters and coffee break | 10:30-11:30 |
+|[Kevin Lynch](https://robotics.northwestern.edu/people/profiles/faculty/lynch-kevin.html) | 11:30-11:50 |
+|Panel Discussion 1 | 11:50-12:20 |
+|Lunch | 12:20-1:50 |
+|Taylor Howell | 1:50-2:05 |
+|Yuki Shirai | 2:05-2:20 |
+|[Francesca Negrello](https://scholar.google.com/citations?user=pRTUzT4AAAAJ&hl=en) | 2:20-2:40 |
+|[Yan Gu](https://www.uml.edu/engineering/mechanical/faculty/gu-yan.aspx) | 2:40-3:00 |
+|Coffee break | 3:00-3:30 |
+|[Alessandro Saccon](https://www.tue.nl/en/research/researchers/alessandro-saccon/) | 3:30-3:50 |
+|[Zachary Manchester](https://www.ri.cmu.edu/ri-faculty/zachary-manchester/) | 3:50-4:10 |
+|[Pulkit Agrawal](https://people.csail.mit.edu/pulkitag/) | 4:10-4:30 |
 |Panel Discussion 2 | 4:30-5:00 |
 
 ## Contributed Papers
