@@ -53,7 +53,7 @@ We are excited to have an incredible group of invited speakers from a range of r
 
 We would like to invite contributed abstracts from the community that fit the themes of this workshop. Accepted abstracts will be presented as either posters or spotlight talks. Submissions may be on recently published work, upcoming papers, position papers, or work in progress. All accepted abstracts will be posted on this page. Submissions should follow the [RSS paper format](https://roboticsconference.org/information/authorinfo/) and should be one to two pages in length (including citations). Submissions should include a brief abstract at the start summarizing the work. 
 
-If you would like to contribute, please [submit your abstract here](https://cmt3.research.microsoft.com/RSSBumpingIntoThings2022/). **Submission deadline has past**
+**Submission deadline has past**
 
 **Submission Deadline** For full consideration for speaking slots: **May 9th, 2022**, with decisions by May 20th, 2022.    
 **Late Deadline** For poster-only consideration: **June 6th, 2022**, with decisions returned within two weeks of submission.    
