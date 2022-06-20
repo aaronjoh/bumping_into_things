@@ -68,15 +68,15 @@ Subject to change. Location: 451 CSB, Posters: CS Lounge
 |[Ken Goldberg](https://goldberg.berkeley.edu/) | 9:35-9:55 |
 |[Carolyn Matl](https://carolyncmatl.github.io/) | 9:55-10:15 |
 |Huanbo Sun | 10:15-10:30 |
-|Posters and coffee break | 10:30-11:30 |
+|**Posters and coffee break** | 10:30-11:30 |
 |[Kevin Lynch](https://robotics.northwestern.edu/people/profiles/faculty/lynch-kevin.html) | 11:30-11:50 |
 |Panel Discussion 1 | 11:50-12:20 |
-|Lunch | 12:20-1:50 |
+|**Lunch** | 12:20-1:50 |
 |Taylor Howell | 1:50-2:05 |
 |Yuki Shirai | 2:05-2:20 |
 |[Francesca Negrello](https://scholar.google.com/citations?user=pRTUzT4AAAAJ&hl=en) | 2:20-2:40 |
 |[Yan Gu](https://www.uml.edu/engineering/mechanical/faculty/gu-yan.aspx) | 2:40-3:00 |
-|Coffee break | 3:00-3:30 |
+|**Coffee break** | 3:00-3:30 |
 |[Alessandro Saccon](https://www.tue.nl/en/research/researchers/alessandro-saccon/) | 3:30-3:50 |
 |[Zachary Manchester](https://www.ri.cmu.edu/ri-faculty/zachary-manchester/) | 3:50-4:10 |
 |[Pulkit Agrawal](https://people.csail.mit.edu/pulkitag/) | 4:10-4:30 |
