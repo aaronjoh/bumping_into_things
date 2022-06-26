@@ -101,7 +101,7 @@ The accepted abstracts for this workshop are:  \
 [	Hybrid Event Shaping to Stabilize Periodic Hybrid Orbits](	RSS_Workshop___Hybrid_Event_Shaping.pdf	), by 	Zhu, James; Kong, Nathan J; Council, George; and Johnson, Aaron	M  \
 [	Solving the "Last Centimeter" Problem with Autonomous Grasping Reflexes](	SaLoutos_RSSWS_2022.pdf	), by 	SaLoutos, Andrew; Guo, Menglong; Stanger-Jones, Elijah; Kim, Hongmin; and Kim, Sangbae	  \
 [	Automatic Tool Design for Robotic Caging Using Flexible Wires](	Ketchum_RSSWS_2022.pdf	), by 	Ketchum, Jake B; Meyer, Joel; and Murphey, Todd	  \
-[	Designing Whisker Sensors for Noisy Environments](	Kent_RSSWS_2022.pdf	), by 	Kent, Teresa  A	  
+[	Designing Whisker Sensors for Noisy Environments](	Kent_RSSWS_2022.pdf	), by Kent, Teresa  A; Kim, Suhan; Babaei, Mahnoush; Emnett, Hannah; Hartmann, Mitra J. Z.; and Bergbreiter, Sarah
 
 
  
