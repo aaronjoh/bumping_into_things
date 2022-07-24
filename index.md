@@ -33,7 +33,8 @@ problems might require or benefit from structure?
 * How does the manner (fast/slow, accidental/intentional/adversarial) or physics (soft/hard, point/surface,
 slippery/sticky) affect which solution(s) might be appropriate?
 
-
+## Video Recording of the Workshop
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLxHmBiQi0bD34kaBxcO9ENkvL7sWafvGt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ## Invited Speakers
@@ -55,32 +56,29 @@ We would like to invite contributed abstracts from the community that fit the th
 
 **Submission deadline has past**
 
-**Submission Deadline** For full consideration for speaking slots: **May 9th, 2022**, with decisions by May 20th, 2022.    
-**Late Deadline** For poster-only consideration: **June 6th, 2022**, with decisions returned within two weeks of submission.    
-**Workshop Date** The workshop will be held on: **July 1st, 2022**
-
 ## Schedule
 
-Subject to change. Location: 451 CSB, Posters: CS Lounge
+Location: 451 CSB, Posters: CS Lounge
 
-|Introduction & Welcome | 9:00-9:15 |
-|[Maria Bauza](https://web.mit.edu/bauza/www/) | 9:15-9:35 |
-|[Ken Goldberg](https://goldberg.berkeley.edu/) | 9:35-9:55 |
-|[Carolyn Matl](https://carolyncmatl.github.io/) | 9:55-10:15 |
-|Huanbo Sun | 10:15-10:30 |
-|**Posters and coffee break** | 10:30-11:30 |
-|[Kevin Lynch](https://robotics.northwestern.edu/people/profiles/faculty/lynch-kevin.html) | 11:30-11:50 |
-|Panel Discussion 1 | 11:50-12:20 |
-|**Lunch** | 12:20-1:50 |
-|Taylor Howell | 1:50-2:05 |
-|Yuki Shirai | 2:05-2:20 |
-|[Francesca Negrello](https://scholar.google.com/citations?user=pRTUzT4AAAAJ&hl=en) | 2:20-2:40 |
-|[Yan Gu](https://www.uml.edu/engineering/mechanical/faculty/gu-yan.aspx) | 2:40-3:00 |
-|**Coffee break** | 3:00-3:30 |
-|[Alessandro Saccon](https://www.tue.nl/en/research/researchers/alessandro-saccon/) | 3:30-3:50 |
-|[Zachary Manchester](https://www.ri.cmu.edu/ri-faculty/zachary-manchester/) | 3:50-4:10 |
-|[Pulkit Agrawal](https://people.csail.mit.edu/pulkitag/) | 4:10-4:30 |
-|Panel Discussion 2 | 4:30-5:00 |
+
+|Introduction & Welcome | 9:00-9:15 |  |
+|[Maria Bauza](https://web.mit.edu/bauza/www/) | 9:15-9:35 | [Video](https://www.youtube.com/watch?v=qfm8vXDRhuA&list=PLxHmBiQi0bD34kaBxcO9ENkvL7sWafvGt&index=1) |
+|[Ken Goldberg](https://goldberg.berkeley.edu/) | 9:35-9:55 | [Video](https://www.youtube.com/watch?v=SuUxwq6rcA0&list=PLxHmBiQi0bD34kaBxcO9ENkvL7sWafvGt&index=2) |
+|[Carolyn Matl](https://carolyncmatl.github.io/) | 9:55-10:15 | |
+|[Huanbo Sun](https://is.mpg.de/person/shuanbo) | 10:15-10:30 | [Video](https://www.youtube.com/watch?v=KFN08s7znPA&list=PLxHmBiQi0bD34kaBxcO9ENkvL7sWafvGt&index=3) |
+|**Posters and coffee break** | 10:30-11:30 | |
+|[Kevin Lynch](https://robotics.northwestern.edu/people/profiles/faculty/lynch-kevin.html) | 11:30-11:50 | [Video](https://www.youtube.com/watch?v=GE735zx16Zc&list=PLxHmBiQi0bD34kaBxcO9ENkvL7sWafvGt&index=4) |
+|Panel Discussion 1 | 11:50-12:20 | [Video](https://www.youtube.com/watch?v=B5Dc4o9NaUk&list=PLxHmBiQi0bD34kaBxcO9ENkvL7sWafvGt&index=5) |
+|**Lunch** | 12:20-1:50 | |
+|[Taylor Howell](https://thowell.github.io/) and [Simon Le Cleac'h](https://simon-lc.github.io/) | 1:50-2:05 | [Video](https://www.youtube.com/watch?v=CshPn-zp3wE&list=PLxHmBiQi0bD34kaBxcO9ENkvL7sWafvGt&index=6) |
+|[Yuki Shirai](https://sites.google.com/view/yukishirai/) | 2:05-2:20 | [Video](https://www.youtube.com/watch?v=s4D7OcK4s4c&list=PLxHmBiQi0bD34kaBxcO9ENkvL7sWafvGt&index=7) |
+|[Francesca Negrello](https://scholar.google.com/citations?user=pRTUzT4AAAAJ&hl=en) | 2:20-2:40 | |
+|[Yan Gu](https://www.uml.edu/engineering/mechanical/faculty/gu-yan.aspx) | 2:40-3:00 | [Video](https://www.youtube.com/watch?v=VVr-1-wTmAw&list=PLxHmBiQi0bD34kaBxcO9ENkvL7sWafvGt&index=8) |
+|**Coffee break** | 3:00-3:30 | |
+|[Alessandro Saccon](https://www.tue.nl/en/research/researchers/alessandro-saccon/) | 3:30-3:50 | [Video](https://www.youtube.com/watch?v=L932Gcl1WAo&list=PLxHmBiQi0bD34kaBxcO9ENkvL7sWafvGt&index=9) | 
+|[Zachary Manchester](https://www.ri.cmu.edu/ri-faculty/zachary-manchester/) | 3:50-4:10 | [Video](https://www.youtube.com/watch?v=uC5GOLmQY58&list=PLxHmBiQi0bD34kaBxcO9ENkvL7sWafvGt&index=10) |
+|[Pulkit Agrawal](https://people.csail.mit.edu/pulkitag/) | 4:10-4:30 | [Video](https://www.youtube.com/watch?v=jU7pkiv3x0E&list=PLxHmBiQi0bD34kaBxcO9ENkvL7sWafvGt&index=11) |
+|Panel Discussion 2 | 4:30-5:00 | [Video](https://www.youtube.com/watch?v=PpYsJTTIyis&list=PLxHmBiQi0bD34kaBxcO9ENkvL7sWafvGt&index=12) |
 
 ## Contributed Papers
 
